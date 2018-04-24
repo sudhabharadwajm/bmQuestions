@@ -1,0 +1,9 @@
+->What are things you will take care in order to make sure that your APIs are scaled?
+-->There are a number of things engineers tend to do. *Database query optimization
+*sharding databases
+*adding missing indexes
+*utilizing caching
+*doing expensive operations asynchronously
+*writing efficient code and tuning web servers help in increasing the throughput and decreasing the latency. 
+
+
